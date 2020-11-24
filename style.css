@@ -1,0 +1,11 @@
+.navbar-nav
+{
+	margin-left: 400px;
+}
+@media only screen and(max-width: 768px)
+{
+	.navbar-nav
+	{
+		margin-left: 0px;
+	}
+}
